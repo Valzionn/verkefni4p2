@@ -4,6 +4,9 @@ module.exports = {
   content: ["./index.html"],
   theme: {
     colors: {
+      transparent: colors.transparent,
+      white: colors.white,
+      lime: colors.lime,
       blue: colors.blue,
     },
     fontFamily: {
